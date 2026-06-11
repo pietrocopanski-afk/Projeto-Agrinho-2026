@@ -137,7 +137,6 @@ function atualizarSensores() {
     statusSolo.style.color = "#27ae60";
   }
 }
-
 // Função executada ao clicar no botão de irrigação
 function irrigar() {
   const alerta = document.getElementById('alerta');
